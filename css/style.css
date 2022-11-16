@@ -168,7 +168,7 @@ a {
   right: 0;
   top: -155px;
   width: 50vw;
-  height: 900px;
+  min-height: 100vh;
   background: rgba(146, 242, 255, 0.15);
   z-index: -1;
 }
